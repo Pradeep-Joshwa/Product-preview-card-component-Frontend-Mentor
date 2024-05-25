@@ -27,6 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot (128)](https://github.com/Pradeep-Joshwa/Product-preview-card-component-Frontend-Mentor/assets/100898870/ebf86c48-4916-41cc-8f62-00089235951a)
+![Screenshot (127)](https://github.com/Pradeep-Joshwa/Product-preview-card-component-Frontend-Mentor/assets/100898870/af812a97-e06e-46bc-91ed-5e185956dc09)
 
 
 
@@ -52,8 +54,8 @@ Users should be able to:
 I learned about flexbox and responsive design and media queries very deeply and how it works in different screen sizes.
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - [Pradeep Joshwa](https://www.linkedin.com/in/pradeep-joshwa-b6650221b/)
+- Frontend Mentor - [@Pradeep-Joshwa](https://www.frontendmentor.io/profile/Pradeep-Joshwa)
+- GitHub - [@Pradeep-Joshwa](https://github.com/Pradeep-Joshwa)
 
 
